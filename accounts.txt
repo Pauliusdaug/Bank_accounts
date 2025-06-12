@@ -1,0 +1,3 @@
+2,Business,AB Telia,Vilnius
+1,Personal,Adam Sandler,Los Angeles
+0,Personal,Jonas Jonaitis,Vilnius
