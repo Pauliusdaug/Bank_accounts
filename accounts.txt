@@ -1,3 +1,6 @@
 2,Business,AB Telia,Vilnius
 1,Personal,Adam Sandler,Los Angeles
 0,Personal,Jonas Jonaitis,Vilnius
+3,Personal,Petras Jonaitis,Klaipeda
+4,Personal,John Doe,Title str. 2, Plunge
+5,Personal,Jane Sullivan,1st str. Chicago IL
